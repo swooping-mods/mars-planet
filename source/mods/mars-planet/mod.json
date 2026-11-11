@@ -1,0 +1,7 @@
+{
+  "id": "mars-planet",
+  "kind": "native",
+  "version": "0.1.0",
+  "display_name": "Mars Planet",
+  "feature_dependencies": []
+}
