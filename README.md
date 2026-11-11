@@ -1,5 +1,7 @@
 # Mars Planet
 
+<img src="media/icon.svg" alt="Mars Planet icon" width="128" height="128">
+
 Select a distinct generated Mars destination with its own save slots.
 
 ## Install

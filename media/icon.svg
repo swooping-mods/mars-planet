@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title">
+  <title id="title">Mars Planet icon</title>
+  <rect width="256" height="256" rx="48" fill="#171d29"/>
+  <circle cx="128" cy="128" r="79" fill="#e78350"/>
+  <path d="M67 78a79 79 0 0 0 112 109 79 79 0 0 1-112-109" fill="#bc553e"/>
+  <ellipse cx="102" cy="103" rx="21" ry="15" fill="#c76042"/>
+  <ellipse cx="159" cy="141" rx="26" ry="20" fill="#c76042"/>
+  <ellipse cx="108" cy="170" rx="12" ry="9" fill="#a84839"/>
+  <path d="m139 63 15 7m-77 62 14 7m76-45 10 6" stroke="#ffb076" stroke-width="9" stroke-linecap="round"/>
+  <path d="M35 168c-1 19 46 16 104-7s99-54 87-67" fill="none" stroke="#f6d7ae" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="48" cy="51" r="4" fill="#f6d7ae"/>
+  <circle cx="207" cy="205" r="3" fill="#f6d7ae"/>
+</svg>
